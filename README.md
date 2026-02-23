@@ -15,3 +15,5 @@ The system reads plaintext from files, performs encryption or decryption operati
 Compile using:
 g++ main.cpp -o cipher
 ./cipher
+
+<img width="414" height="293" alt="image" src="https://github.com/user-attachments/assets/a38083d6-5701-478f-a376-ad78d571866f" />
